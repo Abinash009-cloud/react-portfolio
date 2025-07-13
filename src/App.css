@@ -501,6 +501,7 @@ p {
 
 .home-blob-img {
   object-fit: cover;
+  
 }
 
 /* 📱 Mobile Responsive */
@@ -847,6 +848,28 @@ p {
   border-radius: 8px;
   font-weight: bold;
   cursor: pointer;
+}
+
+.project-card {
+  position: relative;
+}
+
+.tooltip {
+  display: none;
+  position: absolute;
+  background: #333;
+  color: #fff;
+  font-size: 0.8rem;
+  padding: 4px 8px;
+  border-radius: 5px;
+  bottom: 110%;
+  left: 0;
+  z-index: 10;
+  white-space: nowrap;
+}
+
+.project-card:hover .tooltip {
+  display: block;
 }
 
 

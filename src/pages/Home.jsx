@@ -76,15 +76,18 @@ export default function Home() {
                   219.583 9.19024 145.964Z"
                 fill="#61dafb"
               />
-              <image
-                className="home-blob-img"
-                x="0"
-                y="0"
-                width="100%"
-                height="100%"
-                href='/src/assets/profile1.png'
-                
-              />
+  <image
+  className="home-blob-img"
+  href="Myprofile.png"
+  x="0"
+  y="0"
+  width="100%"
+  height="140%"
+  preserveAspectRatio="xMidYMid slice"
+  
+/>
+
+
             </g>
           </svg>
         </div>

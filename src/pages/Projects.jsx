@@ -5,7 +5,7 @@ const projectList = [
   {
     title: 'Typing Speed Test',
     category: 'HTML',
-    image: 'src/assets/typing.jpg',
+    image: 'typing.jpg',
     description: 'Test your typing speed with real-time WPM and accuracy.',
     link: "https://abinash009-cloud.github.io/typing-speed-test/",
     stack: ['HTML', 'CSS'],
@@ -13,22 +13,21 @@ const projectList = [
   {
     title: 'Task Tracker',
     category: 'React',
-    image: 'src/assets/task-tracker.png',
+    image: 'task-tracker.png',
     description: 'Track your tasks efficiently with add, edit, and delete features.',
     link: "https://abinash009-cloud.github.io/react-task-tracker/",
     stack: ['HTML', 'CSS', 'JavaScript'],
   },
-
   {
     title: 'Multi Fitness Tracker',
     category: 'HTML',
-    image: 'src/assets/Fitness Tacker.png',
+    image: 'fitness-tracker.png',  // ✅ renamed
     description: 'Track your fitness activities with this multi-functional tracker.',
     link: "https://abinash009-cloud.github.io/Multi-Fitness-Tracker/",
     stack: ['HTML', 'CSS', 'JavaScript'],
   }
-
 ];
+
 
 
 const categories = ['All', 'React', 'HTML'];

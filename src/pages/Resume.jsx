@@ -26,7 +26,7 @@ export default function Resume() {
         
 
         <div className="resume-block download-btn">
-          <a href="public/resume.pdf" target="_blank" rel="noreferrer">
+          <a href="resume.pdf" target="_blank" rel="noreferrer">
             📥 Download Resume (PDF)
           </a>
         </div>

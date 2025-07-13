@@ -13,7 +13,7 @@ export default function About() {
       viewport={{ once: true }}
     >
       <div className="about-image">
-  <img src="src/assets/profile.jpg" alt="Abinash Sahoo" />
+  <img src="profile.jpg" alt="Abinash Sahoo" />
 </div>
 
       <h2 className="section-title">🙋‍♂️ About Me</h2>
