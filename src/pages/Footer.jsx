@@ -12,7 +12,7 @@ export default function Footer() {
 
         {/* Logo */}
         <div className="footer-logo">
-          <img src="public/logo.png" alt="Logo" />
+          <img src="Logo-copy.png" alt="Logo" />
         </div>
 
         {/* Thank you message */}

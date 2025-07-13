@@ -34,7 +34,7 @@ export default function App() {
       <nav className="navbar">
         <div className="navbar-left">
           <Link to="/">
-            <img src="public/logo.png" alt="Logo" className="logo" />
+            <img src="Logo-copy.png" alt="Logo" className="logo" />
           </Link>
         </div>
         <div className="navbar-right">
